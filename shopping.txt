@@ -1,16 +1,13 @@
 Shopping List
 
 apples
-<<<<<<< HEAD
 yogurt
 milk
 bread
-=======
 6 bananas
 yogurt
 2% milk
 wheat bread
->>>>>>> 3da1cde... tutorial:  added details to shopping list
 cereal
 eggs
 bacon
