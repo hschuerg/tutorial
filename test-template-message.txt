@@ -1,0 +1,1 @@
+Trying to get the template message to pop up on commit.
