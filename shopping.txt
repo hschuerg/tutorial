@@ -2,10 +2,8 @@ Shopping List
 
 apples
 yogurt
-milk
 bread
 6 bananas
-yogurt
 2% milk
 wheat bread
 cereal
