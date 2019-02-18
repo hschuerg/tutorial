@@ -9,7 +9,7 @@ cereal
 eggs
 bacon
 orange juice
-grapes
+red grapes
 lemons
 lettuce
 rice
